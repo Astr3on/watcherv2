@@ -1,0 +1,8 @@
+{
+  "key.watcher.toggle_recording": "Toggle Recording",
+  "key.watcher.pause_resume": "Pause / Resume Recording",
+  "category.watcher": "Watcher",
+  "screen.watcher.title": "Watcher",
+  "screen.watcher.recordings": "Recordings",
+  "screen.watcher.settings": "Settings"
+}

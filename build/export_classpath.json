@@ -1,0 +1,18 @@
+{
+  "projectPath": ":",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\Astreonix\\Documents\\Codex\\2026-05-14\\watcher-is-a-fabric-based-minecraft\\build\\classes\\java\\test",
+      "C:\\Users\\Astreonix\\Documents\\Codex\\2026-05-14\\watcher-is-a-fabric-based-minecraft\\build\\resources\\test"
+    ],
+    "client": [
+      "C:\\Users\\Astreonix\\Documents\\Codex\\2026-05-14\\watcher-is-a-fabric-based-minecraft\\build\\classes\\java\\client",
+      "C:\\Users\\Astreonix\\Documents\\Codex\\2026-05-14\\watcher-is-a-fabric-based-minecraft\\build\\resources\\client"
+    ],
+    "main": [
+      "C:\\Users\\Astreonix\\Documents\\Codex\\2026-05-14\\watcher-is-a-fabric-based-minecraft\\build\\classes\\java\\main",
+      "C:\\Users\\Astreonix\\Documents\\Codex\\2026-05-14\\watcher-is-a-fabric-based-minecraft\\build\\resources\\main",
+      "C:\\Users\\Astreonix\\Documents\\Codex\\2026-05-14\\watcher-is-a-fabric-based-minecraft\\build\\devlibs\\watcher-0.1.0-dev.jar"
+    ]
+  }
+}

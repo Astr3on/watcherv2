@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "watcher",
+  "version": "${version}",
+  "name": "Watcher",
+  "description": "An in-game OBS-inspired recording and media capture suite for Minecraft.",
+  "authors": [
+    "Blueful"
+  ],
+  "icon": "assets/watcher/icon.png",
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.astreonix.watcher.WatcherClient"
+    ]
+  },
+  "mixins": [
+    "watcher.client.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
